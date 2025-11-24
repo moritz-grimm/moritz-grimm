@@ -9,10 +9,11 @@ const moritzGrimm = {
     name: "moritz-grimm",
     position: "Apprentice Software Developer",
     code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    hobbies: ["Gaming", "Coding"],
-    description: [
-        "I love coding, debugging, solving problems",
-        "I love learning new things regarding computers"
+    interests: [
+        "Coding & Debugging",
+        "Gaming",
+        "Music",
+        "Going out with friends",
     ]
 }
 ```
