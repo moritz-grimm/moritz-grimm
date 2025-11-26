@@ -20,14 +20,14 @@ const moritzGrimm = {
 
 <picture>
 <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=moritz_grimm&langs_count=5&custom_title=Top%205%20Languages&theme=dark&disable_animations=true"
+    srcset="https://github-readme-stats-chi-six-69.vercel.app/api/wakatime?username=moritz_grimm&langs_count=5&custom_title=Top%205%20Languages&theme=dark&disable_animations=true"
     media="(prefers-color-scheme: dark)"
 />
 <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=moritz_grimm&langs_count=5&custom_title=Top%205%20Languages&disable_animations=true"
+    srcset="https://github-readme-stats-chi-six-69.vercel.app/api/wakatime?username=moritz_grimm&langs_count=5&custom_title=Top%205%20Languages&disable_animations=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=moritz_grimm&langs_count=5&custom_title=Top%205%20Languages&disable_animations=true" alt="top-5-languages"/>
+<img src="https://github-readme-stats-chi-six-69.vercel.app/api/wakatime?username=moritz_grimm&langs_count=5&custom_title=Top%205%20Languages&disable_animations=true" alt="top-5-languages"/>
 </picture>
 
 # Tech-Stack
