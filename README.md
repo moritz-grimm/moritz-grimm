@@ -66,3 +66,5 @@ A simple tool to switch between a wired or a wifi connection built with PowerShe
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
+
+<sub>All badge and asset sources can be found in [sources.md](./sources.md).</sub>
