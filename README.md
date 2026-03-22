@@ -68,7 +68,7 @@ A CLI tool that automatically backs up your Steam screenshots to OneDrive - orga
 
 ## [My Website](https://github.com/moritz-grimm/moritz-grimm.dev)
 
-My personal portfolio and homepage, built with Vite and TypeScript.
+My personal portfolio and homepage, built with Vite and TypeScript. Reach it at [moritz-grimm.dev](https://moritz-grimm.dev)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-9135FF.svg?style=for-the-badge&logo=Vite&logoColor=white)
@@ -77,14 +77,14 @@ My personal portfolio and homepage, built with Vite and TypeScript.
 
 ## [Personal API](https://github.com/moritz-grimm/personal-api)
 
-My own personal API with endpoints delivering infos about me. Call it here: `https://api.moritz-grimm.dev`
+My own personal API with endpoints delivering infos about me. Call it at [api.moritz-grimm.dev](https://api.moritz-grimm.dev)
 
 ![Hono](https://img.shields.io/badge/Hono-E36002.svg?style=for-the-badge&logo=Hono&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
 ## [Knowledge Base](https://github.com/moritz-grimm/knowledge-base)
 
-A collection of notes, code snippets, and insights from my career as a developer. Reach it here: `https://knowledge.moritz-grimm.dev`
+A collection of notes, code snippets, and insights from my career as a developer. Reach it at [knowledge.moritz-grimm.dev](https://knowledge.moritz-grimm.dev)
 
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F.svg?style=for-the-badge&logo=Docusaurus&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
