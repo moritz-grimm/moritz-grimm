@@ -51,13 +51,6 @@ const moritzGrimm = {
 
 # Featured
 
-## [Ethernet-Wifi-Switcher](https://github.com/moritz-grimm/ethernet-wifi-switcher)
-
-A simple tool to switch between a wired or a wifi connection built with PowerShell for Windows
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge)
-
 ## [SteamVault](https://github.com/moritz-grimm/steam-vault)
 
 A CLI tool that automatically backs up your Steam screenshots to OneDrive - organized by game, deduplicated via SHA-256 hashing, and with preserved EXIF metadata.
