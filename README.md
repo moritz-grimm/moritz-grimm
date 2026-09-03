@@ -20,11 +20,11 @@ const moritzGrimm = {
 
 <picture>
 <source
-    srcset="https://stats.moritz-grimm.dev/api/wakatime?username=moritz_grimm&langs_count=5&custom_title=Top%205%20Languages&theme=dark&disable_animations=true"
+    srcset="https://stats.moritz-grimm.dev/api/wakatime?username=moritz_grimm&langs_count=5&custom_title=Top%205%20Languages&bg_color=00000000&title_color=e6edf3&text_color=8b949e&border_color=3d444d&disable_animations=true"
     media="(prefers-color-scheme: dark)"
 />
 <source
-    srcset="https://stats.moritz-grimm.dev/api/wakatime?username=moritz_grimm&langs_count=5&custom_title=Top%205%20Languages&disable_animations=true"
+    srcset="https://stats.moritz-grimm.dev/api/wakatime?username=moritz_grimm&langs_count=5&custom_title=Top%205%20Languages&&bg_color=00000000&title_color=1f2328&text_color=59636e&border_color=d1d9e0&disable_animations=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://stats.moritz-grimm.dev/api/wakatime?username=moritz_grimm&langs_count=5&custom_title=Top%205%20Languages&disable_animations=true" alt="top-5-languages"/>
