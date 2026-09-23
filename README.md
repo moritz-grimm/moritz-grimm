@@ -41,11 +41,11 @@ const moritzGrimm = {
 
 <picture>
 <source
-    srcset="https://stats.moritz-grimm.dev/api/top-langs/?username=moritz-grimm&layout=compact&langs_count=6&card_width=422&hide_title=true&hide_border=true&bg_color=00000000&text_color=8b949e&disable_animations=true&hide=shaderlab,markdown,mdx,hlsl,cmake&exclude_repo=pythonis,python-exercises,Timebooking-Calculator,spiel21,Timebooking-Calculator-2.0,snoozle"
+    srcset="https://stats.moritz-grimm.dev/api/top-langs/?username=moritz-grimm&layout=compact&langs_count=6&card_width=422&hide_title=true&hide_border=true&bg_color=00000000&text_color=8b949e&disable_animations=true&hide=shaderlab%2Cmarkdown%2Cmdx%2Chlsl%2Ccmake&exclude_repo=pythonis%2Cpython-exercises%2CTimebooking-Calculator%2Cspiel21%2CTimebooking-Calculator-2.0%2Csnoozle"
     media="(prefers-color-scheme: dark)"
 />
 <source
-    srcset="https://stats.moritz-grimm.dev/api/top-langs/?username=moritz-grimm&layout=compact&langs_count=6&card_width=422&hide_title=true&hide_border=true&bg_color=00000000&text_color=59636e&disable_animations=true&hide=shaderlab,markdown,mdx,hlsl,cmake&exclude_repo=pythonis,python-exercises,Timebooking-Calculator,spiel21,Timebooking-Calculator-2.0,snoozle"
+    srcset="https://stats.moritz-grimm.dev/api/top-langs/?username=moritz-grimm&layout=compact&langs_count=6&card_width=422&hide_title=true&hide_border=true&bg_color=00000000&text_color=59636e&disable_animations=true&hide=shaderlab%2Cmarkdown%2Cmdx%2Chlsl%2Ccmake&exclude_repo=pythonis%2Cpython-exercises%2CTimebooking-Calculator%2Cspiel21%2CTimebooking-Calculator-2.0%2Csnoozle"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://stats.moritz-grimm.dev/api/top-langs/?username=moritz-grimm&layout=compact&langs_count=6&card_width=422&hide_title=true&hide_border=true&bg_color=ffffff&text_color=59636e&disable_animations=true&hide=shaderlab,markdown,mdx,hlsl,cmake&exclude_repo=pythonis,python-exercises,Timebooking-Calculator,spiel21,Timebooking-Calculator-2.0,snoozle" alt="Languages Used"/>
