@@ -18,18 +18,6 @@ const moritzGrimm = {
 }
 ```
 
-<picture>
-<source
-    srcset="https://stats.moritz-grimm.dev/api/wakatime?username=moritz_grimm&langs_count=5&custom_title=Top%205%20Languages&bg_color=00000000&title_color=e6edf3&text_color=8b949e&border_color=3d444d&disable_animations=true"
-    media="(prefers-color-scheme: dark)"
-/>
-<source
-    srcset="https://stats.moritz-grimm.dev/api/wakatime?username=moritz_grimm&langs_count=5&custom_title=Top%205%20Languages&&bg_color=00000000&title_color=1f2328&text_color=59636e&border_color=d1d9e0&disable_animations=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://stats.moritz-grimm.dev/api/wakatime?username=moritz_grimm&langs_count=5&custom_title=Top%205%20Languages&disable_animations=true" alt="top-5-languages"/>
-</picture>
-
 # Tech-Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -49,6 +37,20 @@ const moritzGrimm = {
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)  
 
+### Languages Used
+
+<picture>
+<source
+    srcset="https://stats.moritz-grimm.dev/api/top-langs/?username=moritz-grimm&layout=compact&langs_count=6&card_width=422&hide_title=true&hide_border=true&bg_color=00000000&text_color=8b949e&disable_animations=true&hide=shaderlab,markdown,mdx,hlsl,cmake&exclude_repo=pythonis,python-exercises,Timebooking-Calculator,spiel21,Timebooking-Calculator-2.0,snoozle"
+    media="(prefers-color-scheme: dark)"
+/>
+<source
+    srcset="https://stats.moritz-grimm.dev/api/top-langs/?username=moritz-grimm&layout=compact&langs_count=6&card_width=422&hide_title=true&hide_border=true&bg_color=00000000&text_color=59636e&disable_animations=true&hide=shaderlab,markdown,mdx,hlsl,cmake&exclude_repo=pythonis,python-exercises,Timebooking-Calculator,spiel21,Timebooking-Calculator-2.0,snoozle"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://stats.moritz-grimm.dev/api/top-langs/?username=moritz-grimm&layout=compact&langs_count=6&card_width=422&hide_title=true&hide_border=true&bg_color=ffffff&text_color=59636e&disable_animations=true&hide=shaderlab,markdown,mdx,hlsl,cmake&exclude_repo=pythonis,python-exercises,Timebooking-Calculator,spiel21,Timebooking-Calculator-2.0,snoozle" alt="Languages Used"/>
+</picture>
+
 # Featured
 
 ## [SteamVault](https://github.com/moritz-grimm/steam-vault)
@@ -61,7 +63,7 @@ A CLI tool that automatically backs up your Steam screenshots to OneDrive - orga
 
 ## [My Website](https://github.com/moritz-grimm/moritz-grimm.dev)
 
-My personal portfolio and homepage, built with Vite and TypeScript. Reach it at [moritz-grimm.dev](https://moritz-grimm.dev)
+My personal portfolio and homepage, built with Vite and TypeScript. Reach it at [moritz-grimm.dev](https://www.moritz-grimm.dev)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-9135FF.svg?style=for-the-badge&logo=Vite&logoColor=white)
