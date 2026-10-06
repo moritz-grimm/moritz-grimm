@@ -33,7 +33,7 @@ const moritzGrimm = {
 ![NodeJS](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002.svg?style=for-the-badge&logo=Hono&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-9135FF.svg?style=for-the-badge&logo=Vite&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-00FF74.svg?style=for-the-badge&logo=Vitest&logoColor=white)
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F.svg?style=for-the-badge&logo=Docusaurus&logoColor=white)  
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
