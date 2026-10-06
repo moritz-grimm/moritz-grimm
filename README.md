@@ -1,36 +1,44 @@
-<p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=500&separator=%3C&lines=console.log(%22Hello+World%2C+i'm+Moritz%22);" alt="Typing SVG" /></a>
-</P>
+# 👋 Hey there, I'm Moritz!
 
-# About me
+I'm an apprentice software developer from Germany. I build tools and services with TypeScript, run my own servers and sometimes publish open-source packages on npm.
 
 ```javascript
 const moritzGrimm = {
-    name: "moritz-grimm",
+    name: "Moritz Grimm",
     position: "Apprentice Software Developer",
-    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    focus: "Full-stack web development & self-hosted infrastructure",
     interests: [
         "Coding & Debugging",
+        "Local AI models",
         "Gaming",
         "Music",
+        "Gym",
         "Going out with friends",
-    ]
+    ],
 }
 ```
 
-# Tech-Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)  
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF.svg?style=for-the-badge&logo=Liquibase&logoColor=white)  
 
 ![NodeJS](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002.svg?style=for-the-badge&logo=Hono&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-9135FF.svg?style=for-the-badge&logo=Vite&logoColor=white)
-![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F.svg?style=for-the-badge&logo=Docusaurus&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F.svg?style=for-the-badge&logo=Docusaurus&logoColor=white)  
+
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)  
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
@@ -51,35 +59,35 @@ const moritzGrimm = {
 <img src="https://stats.moritz-grimm.dev/api/top-langs/?username=moritz-grimm&layout=compact&langs_count=6&card_width=422&hide_title=true&hide_border=true&bg_color=ffffff&text_color=59636e&disable_animations=true&hide=shaderlab,markdown,mdx,hlsl,cmake&exclude_repo=pythonis,python-exercises,Timebooking-Calculator,spiel21,Timebooking-Calculator-2.0,snoozle" alt="Languages Used"/>
 </picture>
 
-# Featured
+## Featured
 
-## [SteamVault](https://github.com/moritz-grimm/steam-vault)
+### [SteamVault](https://github.com/moritz-grimm/steam-vault)
 
-A CLI tool that automatically backs up your Steam screenshots to OneDrive - organized by game, deduplicated via SHA-256 hashing, and with preserved EXIF metadata.
+A CLI tool that automatically backs up your Steam screenshots to OneDrive. Screenshots are organized by game, deduplicated via SHA-256 hashing and keep their EXIF metadata.
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)
 
-## [My Website](https://github.com/moritz-grimm/moritz-grimm.dev)
+### [hono-throttle](https://github.com/moritz-grimm/hono-throttle)
 
-My personal portfolio and homepage, built with Vite and TypeScript. Reach it at [moritz-grimm.dev](https://www.moritz-grimm.dev)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-9135FF.svg?style=for-the-badge&logo=Vite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
-
-## [Personal API](https://github.com/moritz-grimm/personal-api)
-
-My own personal API with endpoints delivering infos about me. Call it at [api.moritz-grimm.dev](https://api.moritz-grimm.dev)
+A lightweight rate limiter middleware for Hono using a sliding-window algorithm. Published on [npm](https://www.npmjs.com/package/hono-throttle) and used in my own projects.
 
 ![Hono](https://img.shields.io/badge/Hono-E36002.svg?style=for-the-badge&logo=Hono&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## [Knowledge Base](https://github.com/moritz-grimm/knowledge-base)
+### [Personal API](https://github.com/moritz-grimm/personal-api)
 
-A collection of notes, code snippets, and insights from my career as a developer. Reach it at [knowledge.moritz-grimm.dev](https://knowledge.moritz-grimm.dev)
+A public REST API with endpoints for GitHub stats, service status and sorting algorithms. Responses are cached with Redis and rate-limited with hono-throttle. Call it at [api.moritz-grimm.dev](https://api.moritz-grimm.dev).
+
+![Hono](https://img.shields.io/badge/Hono-E36002.svg?style=for-the-badge&logo=Hono&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
+
+### [Knowledge Base](https://github.com/moritz-grimm/knowledge-base)
+
+A collection of notes, code snippets and insights from my career as a developer. Reach it at [knowledge.moritz-grimm.dev](https://knowledge.moritz-grimm.dev).
 
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F.svg?style=for-the-badge&logo=Docusaurus&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
